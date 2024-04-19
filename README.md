@@ -55,6 +55,6 @@ Contributions are welcome! If you'd like to contribute to Berufsvernetzen Fronte
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-Update redme 6
+Update redme 7
 
 Feel free to adjust the emojis and vocabulary as needed to match the tone and style of your project!
